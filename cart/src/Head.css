@@ -1,0 +1,23 @@
+
+*{
+    box-sizing: border-box;
+    margin:0;
+
+}
+.head{
+    height: 200px;
+    width:1350px;
+    padding-top: 20px;
+    background-color: black;
+    color:white;
+   text-align: center;;
+ 
+}
+.h1{
+   padding-top: 60px;
+   position:relative;
+  text-align: center;
+  margin:0;
+  color:white;
+
+}

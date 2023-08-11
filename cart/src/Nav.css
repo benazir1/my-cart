@@ -1,0 +1,42 @@
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+body{
+    font-size:'poppins',sans-serif;
+  
+}
+
+nav{
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:20px 80px;
+}
+.nav1{
+    background-color: gray;
+    
+}
+#n1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#n1 li{
+    list-style: none;
+    padding:0px 20px;
+    position: relative;
+}
+#n1 li a{
+ text-decoration: none;
+ font-size: 1.3rem;
+ font-weight: 600rem;
+ color: white;
+ transition: 0.3s ease-in-out;
+}
+#n1 li a:hover{
+    color:aqua;
+}
